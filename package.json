@@ -64,7 +64,7 @@
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.6.6",
-    "@commitlint/cli": "^17.6.6",
+    "@commitlint/cli": "^19.4.1",
     "@types/lodash": "^4.14.195",
     "husky": "^8.0.3",
     "prettier": "^2.8.8",
